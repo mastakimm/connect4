@@ -14,12 +14,10 @@ Connect4 is a classic two-player connection game where players take turns droppi
 
     HTML
     CSS
-    JavaScript (or insert your preferred programming language/framework)
+    JavaScript
 
 ### How to Play:
 
     Clone the repository: git clone https://github.com/yourusername/connect4
-    Open index.html in your web browser.
+    Open ConnectFour.html in your web browser.
     Enjoy the game and try to connect four discs in a row!
-
-Feel free to contribute to the project by opening issues and submitting pull requests.
